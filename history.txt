@@ -1,0 +1,214 @@
+    1  rm profile.txt
+    2  touch profile.txt
+    3  ls
+    4  echo "Name" "Email" "Roll No" "Address"
+    5  echo  "Name" "Email" "Roll No" "Address"
+    6  echo "Name" "Email" "Roll No" "Address">>profile.txt
+    7  echo "Name Sai Sri Durga">>profile.txt
+    8  echo "Email saisridurga@gmail.com">>profile.txt
+    9  echo "Roll No 172U1A0568">>profile.txt
+   10  echo "Address Nellore">>profile.txt
+   11  touch da.txt
+   12  vi da.txt
+   13  mkdir durga1
+   14  pwd
+   15  cd durga1
+   16  pwd
+   17  touch profile.txt
+   18  vi
+   19  vi profile.txt
+   20  cat profile.txt
+   21  touch sample.html
+   22  ls
+   23  vi sample.html
+   24  vi sample.html
+   25  vi sample.html
+   26  pwd
+   27  git init
+   28  git clone 'gist.git'
+   29  git clone 'https://github.com/durga68/gist.git'pwd
+   30  gist clone 'https://github.com/durga68/gist.git'
+   31  git clone 'https://github.com/durga68/gist.git'
+   32  ls
+   33  ls
+   34  cd gist/
+   35  pwd
+   36  ls
+   37  vi README.md 
+   38  git config --global user.name 'durga68'
+   39  git config --global user.email 'mamthachinthapalli94@gmail.com
+   40  pwd
+   41  git init
+   42  git init
+   43  git status -s
+   44  touch example.py
+   45  git status -s
+   46  git add .
+   47  git status -s
+   48  git commit -m 'write markdown statements'
+   49  git log
+   50  git remote  add origin 'https://github.com/durga68/gist.git'
+   51  git push origin master
+   52  git push origin main
+   53  git config -- global user.name 'durga68'
+   54  git config --global user.name 'durga68'
+   55  git config --global user.email 'mamthachinthapalli94@gmail.com'
+   56  git status -s
+   57  git commit -m 'write markdown statements'
+   58  git remote  add origin 'https://github.com/durga68/gist.git'
+   59  git push origin main
+   60  git add.
+   61  git commit -m 'some files'
+   62  git status -s
+   63  git add .
+   64  git status -s
+   65  git remote add origin 'https://github.com/durga68/data-analysis.git'
+   66  git push origin main
+   67  git init
+   68  git status -s
+   69  git add .
+   70  git status -s
+   71  git commit -m 'some files'
+   72  git remote add origin 'https://github.com/durga68/data-analysis.git'
+   73  git push origin main
+   74  git init
+   75  git status -s
+   76  git add .
+   77  git status -s
+   78  git commit -m 'day 3 files'
+   79  git add remote origin '
+   80  ^C
+   81  ^C
+   82  ^c
+   83  exit
+   84  EXIT
+   85   ^C
+   86  git init
+   87  git status -s
+   88  git add .
+   89  git status -s
+   90  git commit -m 'day 3 files'
+   91  git add remote origin '
+   92  git add remote origin 'https://github.com/durga68/gist.git'
+   93   ^C
+   94  clear
+   95  git init
+   96  git status -s
+   97  git add .
+   98  git status -s
+   99  git commit -m 'day4 files
+  100  git init
+  101  git status -s
+  102  git add .
+  103  git status -s
+  104  git add remote origin 'https://github.com/durga68/gist.git'
+  105  git commit -m 'day 3 files'
+  106  git add remote origin 'https://github.com/durga68/gist.git'
+  107  git push origin main
+  108  git remote add origin main
+  109  git remote add origin 'https://github.com/durga68/gist.git'
+  110  git push origin main
+  111  git init
+  112  git status -s
+  113  git add .d
+  114  git commit -m 'day4 files'
+  115  git add .
+  116  git commit -m 'day4 files'
+  117  git status -s
+  118  git remote add origin 'https://github.com/durga68/gist.git'
+  119  git push origin main
+  120  git init
+  121  git status -s
+  122  git add .
+  123  git commit -m 'day4 files'
+  124  git add .
+  125  git init
+  126  git status -s
+  127  git add .
+  128  git add .
+  129  git add .
+  130  git commit -m 'day4 files'
+  131  git remote add origin 'https://github.com/durga68/gist.git'
+  132  git push origin main
+  133  git init
+  134  git status -s
+  135  git add .
+  136  git status -s
+  137  git commit -m 'day 5 files
+  138  git init
+  139  git status -s
+  140  git commit -m 'day5 files'
+  141  git commit -m 'day5 files'
+  142  git remote add origin 'https://github.com/durga68/gist.git'
+  143  git push origin main
+  144  pwd
+  145  ls
+  146  touch demo.txt
+  147  ls
+  148  mkdir GIST
+  149  LS
+  150  cd GIST
+  151  PWD
+  152  Cd..
+  153  cd ..
+  154  pwd
+  155  cd e:
+  156  pwd
+  157  cd d:
+  158  pwd
+  159  cd c:
+  160  cd /c/Users/dell/Desktop/keerthisri172U1A0497
+  161  pwd
+  162  cd /c/Users/dell/Desktop/keerthisri172U1A049
+  163  pwd
+  164  echo "Hello"
+  165  echo 
+  166  echo {1..100}
+  167  echo {1..1000}
+  168  touch file{1..100}.txt
+  169  touch python{20..50
+  170  touch python{20..50}.py
+  171  touch c language{50..70}.cpp
+  172  pwd
+  173  ls
+  174  mkdir GIST
+  175  rmdir GIST
+  176  LS
+  177  rm demo.txt
+  178  ls
+  179  rm file{1..10}.txt
+  180  ls
+  181  rm file{50..100}.txt
+  182  ls
+  183  rm clanguage{50..100}.cpp
+  184  ls
+  185  rm *.txt
+  186  ls
+  187  rm *.txt
+  188  ls
+  189  rm *.py
+  190  ls
+  191  rm clanugauge{1..100}.cpp
+  192  ls
+  193  rm file{50..100}.txt
+  194  ls
+  195  rm clanguage{1..100}.cpp
+  196  ls
+  197  nano myfile.txt
+  198  cat myfile.txt
+  199  nano myfile.txt
+  200  cat myfile.txt
+  201  echo "Hello">>myfile2.txt
+  202  cat myfile2.txt
+  203  echo {1..1000}>>myfile3.txt
+  204  cat myfile3.txt
+  205  mv myfile3.txt myfile2.txt
+  206  cat myfile2.txt
+  207  ls
+  208  cp myfile2.txt
+  209  cp myfile2.txt myfile.txt
+  210  cat myfile.txt
+  211  ls
+  212  cp myfile.txt myfile2.txt
+  213  history
+  214  history>>history.txt
